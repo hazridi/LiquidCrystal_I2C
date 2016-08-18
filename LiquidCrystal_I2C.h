@@ -7,7 +7,7 @@
  * LCD is controlled over I2C using a PCF8574 extender.
  *
  * url: http://github.com/hazridi/LiquidCrystal_I2C
- * licence: GPL v2.1 or greater
+ * licence: GPL v2 or greater
  *
  * Dec 2011	V2.0 by Mario H.
  * Jan 2012	adapted to AVR-Net-IO by M.Maassen <mic.maassen@gmail.com>
