@@ -6,7 +6,7 @@ Create the folder "libraries" in case it does not exist yet. Place all the files
 86Duino: place the LiquidCrystal_I2C folder in hardware/86duino/x86/libraries
 
 # License #
-This library is licensed under the GNU GPL v2.1 or later.
+This library is licensed under the GNU GPL version 2 or later.
 
 # Usage #
 To use the library in your own sketch, select it from *Sketch > Import Library*.
